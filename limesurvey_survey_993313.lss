@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>365</DBVersion>
+ <languages>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1100585]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[jünger als als 25 Jahre]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100585]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[25 Jahre oder älter]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr zufrieden]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[überwiegend zufrieden]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[mittelmäßig zufrieden]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[wenig zufrieden]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[überhaupt nicht zufrieden]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1101237]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[ein Testat]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1101237]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[zwei 5-Punkte-Aufgaben]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100590]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr vertraut]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100590]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[eher vertraut]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100590]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[eher unvertraut]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100590]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[sehr unvertraut]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr unwichtig</br>1]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[2]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[3]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[4]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[sehr wichtig </br>5]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Trifft für mich auf das Testat nicht zu.]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr untypisch]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[eher untypisch]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[eher typisch]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[sehr typisch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[Die ganze Zeit</br>5]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[Meistens</br>4]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[Etwas mehr als die Hälfte der Zeit</br>3]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[Etwas weniger als die Hälfte der Zeit</br>2]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[Ab und zu</br>1]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[Zu keinem Zeitpunkt</br>0]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr gut]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[eher gut]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[weder gut noch schlecht]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[eher schlecht]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[sehr schlecht]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[gar nicht zutreffend]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[wenig zutreffend]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[teilweise zutreffend]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[überwiegend zutreffend]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[völlig zutreffend]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[189595]]></cid>
+    <qid><![CDATA[1100743]]></qid>
+    <cqid><![CDATA[1100741]]></cqid>
+    <cfieldname><![CDATA[993313X91298X1100741]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189582]]></cid>
+    <qid><![CDATA[1100588]]></qid>
+    <cqid><![CDATA[1100586]]></cqid>
+    <cfieldname><![CDATA[993313X91292X1100586SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A1]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189583]]></cid>
+    <qid><![CDATA[1100588]]></qid>
+    <cqid><![CDATA[1100586]]></cqid>
+    <cfieldname><![CDATA[993313X91292X1100586SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A2]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189584]]></cid>
+    <qid><![CDATA[1100589]]></qid>
+    <cqid><![CDATA[1100586]]></cqid>
+    <cfieldname><![CDATA[993313X91292X1100586SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A3]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189585]]></cid>
+    <qid><![CDATA[1100589]]></qid>
+    <cqid><![CDATA[1100586]]></cqid>
+    <cfieldname><![CDATA[993313X91292X1100586SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A4]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189586]]></cid>
+    <qid><![CDATA[1100589]]></qid>
+    <cqid><![CDATA[1100586]]></cqid>
+    <cfieldname><![CDATA[993313X91292X1100586SQ001]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[A5]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189587]]></cid>
+    <qid><![CDATA[1100612]]></qid>
+    <cqid><![CDATA[1100611]]></cqid>
+    <cfieldname><![CDATA[993313X91293X1100611]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[189588]]></cid>
+    <qid><![CDATA[1100615]]></qid>
+    <cqid><![CDATA[1100614]]></cqid>
+    <cfieldname><![CDATA[993313X91293X1100614]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[91157]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Ihre Person]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description><![CDATA[Um Ihre Angaben einordnen zu können, teilen Sie uns bitte etwas über sich mit!]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91292]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Gesamtzufriedenheit]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91293]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Testatauswahl]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[Nun interessieren wir uns dafür, wie es dazu kam, dass Sie ein Testat statt einer der 5-Punkte-Aufgaben wählten.]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91296]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Testatvorbereitung]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[Nun interessieren wir uns dafür, wie Sie sich derzeit auf das Testat vorbereiten.]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91298]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Informations- und Unterstützungsangebot]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91326]]></gid>
+    <sid><![CDATA[993313]]></sid>
+    <group_name><![CDATA[Codegenerierung]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description><![CDATA[Fast geschafft! Erstellen Sie bitte den Code, damit wir Ihre Angaben zu verschiedenen Befragungszeitpunkten zusammenführen können.]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1099225]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[StudBAPs]]></title>
+    <question><![CDATA[<span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Studieren Sie im Studiengang Bachelor Psychologie an der TU Dresden?</span></span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1099232]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Lernziel]]></title>
+    <question><![CDATA[<span dir="ltr" role="presentation" style="left: 5.21%; top: 36.51%; font-size: calc(var(--scale-factor)*10.00px); font-family: sans-serif; transform: scaleX(1.07379);">Mit welchem persönlichen Lernziel sind Sie in die Veranstaltung gegangen?</span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100585]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Alter]]></title>
+    <question><![CDATA[Wie alt sind Sie?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100586]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91292]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Zufriedenheit]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100588]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91292]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[ZufriedenheitPositiv]]></title>
+    <question><![CDATA[Was gefällt Ihnen an der Prüfungstheke besonders gut und sollte beibehalten werden?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((993313X91292X1100586SQ001.NAOK == "A1" or 993313X91292X1100586SQ001.NAOK == "A2"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100589]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91292]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[ZufriedenheitNegativ]]></title>
+    <question><![CDATA[Was sollten wir an der Prüfungstheke Ihrer Meinung nach ändern?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((993313X91292X1100586SQ001.NAOK == "A3" or 993313X91292X1100586SQ001.NAOK == "A4" or 993313X91292X1100586SQ001.NAOK == "A5"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100590]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Vertrautheit]]></title>
+    <question/>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[GPSK]]></title>
+    <question><![CDATA[<span aria-labelledby="instrument-label" class="property-value" style="font-family: 'Source Sans Pro', Arial, Verdana, Helvetica, sans-serif !important; font-size:1rem; font-weight: normal; color: #000"><span style="text-align: justify; line-height: 150%; font-size: 10.0pt; font-family: 'Arial','sans-serif';">Bitte entscheiden Sie für jede Aussage, wie typisch oder untypisch das geschilderte Verhalten für Sie ist.</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100611]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[KriterienSonstige]]></title>
+    <question><![CDATA[Gab es darüber hinaus weitere Überlegungen, die dazu führten, dass Sie das Testat als erste Teilleistung auswählten?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100612]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[KriterienSonstigeWel]]></title>
+    <question><![CDATA[Welche?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((993313X91293X1100611.NAOK == "Y"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100614]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[PunktVersuch]]></title>
+    <question><![CDATA[<span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="color:black">Haben Sie 5-Punkte-Aufgaben bearbeitet, die Sie <b>nicht </b>als Abgabe eingereicht haben?</span></span></span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100615]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[PunktVersuchGrund]]></title>
+    <question><![CDATA[<span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="color:black">Warum haben Sie diese Aufgaben nicht abgegeben?</span></span></span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((993313X91293X1100614.NAOK == "Y"))]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100620]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[Zeitumfang]]></title>
+    <question><![CDATA[Wie viele Stunden bereiteten Sie sich bisher auf das Testat vor (inklusive Besuch der Lehrveranstaltung)?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100621]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[VorbereitungArt]]></title>
+    <question><![CDATA[Wie bereiten Sie sich auf das Testat vor?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100629]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[WHO5]]></title>
+    <question><![CDATA[<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">Die folgenden Aussagen betreffen Ihr Wohlbefinden in den letzten zwei Wochen. Bitte markieren<br />Sie bei jeder Aussage die Rubrik, die Ihrer Meinung nach am besten beschreibt, wie Sie sich in den<br />letzten zwei Wochen gefühlt haben.</span></span></span></p>
+
+<p style="margin-bottom:11px"><span style="font-size:11pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif">In den letzten zwei Wochen … </span></span></span></p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Informiert]]></title>
+    <question><![CDATA[Wie gut fühlen Sie sich informiert über ...]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100741]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[Sprechstunde]]></title>
+    <question><![CDATA[Haben Sie das Angebot der Portfoliosprechstunde in Anspruch genommen?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100743]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SprechstundeGrund]]></title>
+    <question><![CDATA[Weshalb nicht?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((993313X91298X1100741.NAOK == "N"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101237]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[Zeitaufwand]]></title>
+    <question><![CDATA[Welche Leistung erfordert Ihrer Meinung nach mehr zeitlichen Aufwand?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1101328]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91326]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[VaterVorname]]></title>
+    <question><![CDATA[<p>Wie lautet der erste Buchstabe des Vornamens Ihres Vaters (oder einer Person, die für Sie einem Vater am nächsten kommt)?</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><em>Beispiel</em>: Beim Vornamen <strong>H</strong>ans-Peter geben Sie den Buchstaben <strong>H</strong> ein.</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91326]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[VaterGeburtstag]]></title>
+    <question><![CDATA[<p>Bitte geben Sie den <strong>Tag </strong>des <strong>Geburtstags </strong>Ihres Vaters an (oder einer Person, die für Sie einem Vater am nächsten kommt).</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><em>Beispiel</em>: Hat Ihr Vater am <strong>03</strong>. Februar Geburtstag, dann geben Sie die Zahl <strong>3</strong> ein.</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101396]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91326]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[MutterVorname]]></title>
+    <question><![CDATA[<p>Wie lautet der erste Buchstabe des Vornamens Ihrer Mutter (oder einer Person, die für Sie einer Mutter am nächsten kommt)?</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><em>Beispiel</em>: Beim Vornamen <strong>M</strong>aria geben Sie den Buchstaben <strong>M</strong> ein.</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91326]]></gid>
+    <type><![CDATA[N]]></type>
+    <title><![CDATA[MutterGeburtstag]]></title>
+    <question><![CDATA[<p>Bitte geben Sie den <strong>Tag </strong>des <strong>Geburtstags </strong>Ihrer Mutter (oder einer Person, die für Sie einer Mutter am nächsten kommt) an.</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;"><em>Beispiel</em>: Hat Ihre Mutter am <strong>30</strong>. August Geburtstag, dann geben Sie die Zahl <strong>30</strong> ein.</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101683]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91326]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Schule]]></title>
+    <question><![CDATA[<p>Wie lautet der <strong>erste Buchstabe</strong> der von Ihnen zuletzt besuchten allgemein bildenden <strong>Schule</strong>? Bei Schulen, deren Namen mit dem Schultyp beginnen, verwenden Sie das erste Wort, welches nicht den Schultyp betrifft.</p>
+
+<div style="background:#eeeeee;border:1px solid #cccccc;padding:5px 10px;">Beispiel: Wenn Sie das <strong>A</strong>bendgymnasium besuchten, verwenden Sie den Buchstaben <strong>A</strong>, beim Gymnasium <strong>T</strong>olkewitz den Buchstaben <strong>T</strong>.</div>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102003]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Fachinteresse]]></title>
+    <question><![CDATA[Geben Sie bitte an, inwiefern Sie der folgenden Aussage zustimmen!]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Eigenschaften]]></title>
+    <question><![CDATA[Wie wichtig war Ihnen für die Auswahl des Testats, dass ...]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1100587]]></qid>
+    <parent_qid><![CDATA[1100586]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91292]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Im Großen und Ganzen, wie zufrieden sind Sie mit der Prüfungstheke, also der Möglichkeit verschiedene Teilleistungen im Rahmen einer Portfolioprüfung auszuwählen?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100600]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ich ertappe mich häufig dabei, Aufgaben zu erledigen, die ich eigentlich schon vor Tagen tun wollte.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100601]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich erledige Aufgaben immer erst kurz vor dem Abgabetermin.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100602]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Selbst kleine Sachen, bei denen man sich nur hinsetzen und sie erledigen müsste, bleiben häufig für Tage liegen.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100603]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Bei der Vorbereitung auf einen Abgabetermin vergeude ich häufig meine Zeit mit anderen Dingen.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100604]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Normalerweise fange ich mit einer Arbeitsaufgabe gleich an, wenn ich sie bekommen habe.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100605]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Ich bin häufig mit Aufgaben früher fertig als nötig.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100606]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Normalerweise erledige ich am Tag alle Dinge, die ich geplant hatte.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100607]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[Ich sage dauernd: „Das mache ich morgen“.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100608]]></qid>
+    <parent_qid><![CDATA[1100599]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ009]]></title>
+    <question><![CDATA[Im Allgemeinen erledige ich alles, was ich machen wollte, bevor ich mich am Abend hinsetze und mich ausruhe.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100622]]></qid>
+    <parent_qid><![CDATA[1100621]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Vorlesungen besuchen]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100623]]></qid>
+    <parent_qid><![CDATA[1100621]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[anhand der Vorlesungsfolien und -videos]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100624]]></qid>
+    <parent_qid><![CDATA[1100621]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[anhand weiterführender Literatur]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100625]]></qid>
+    <parent_qid><![CDATA[1100621]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Lerngruppe]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100626]]></qid>
+    <parent_qid><![CDATA[1100621]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91296]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[mit Hilfe der Diskussionsfragen]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100630]]></qid>
+    <parent_qid><![CDATA[1100629]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[… war ich froh und guter Laune.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100631]]></qid>
+    <parent_qid><![CDATA[1100629]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[… habe ich mich ruhig und entspannt gefühlt.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100632]]></qid>
+    <parent_qid><![CDATA[1100629]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[… habe ich mich energisch und aktiv gefühlt.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100633]]></qid>
+    <parent_qid><![CDATA[1100629]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[… habe ich mich beim Aufwachen frisch und ausgeruht gefühlt.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100634]]></qid>
+    <parent_qid><![CDATA[1100629]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[… war mein Alltag voller Dinge, die mich interessieren.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1100688]]></qid>
+    <parent_qid><![CDATA[1100677]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[... die Anforderungen des Testats?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100689]]></qid>
+    <parent_qid><![CDATA[1100677]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[... die Kritierien, nach denen das Testat bewertet wird?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100690]]></qid>
+    <parent_qid><![CDATA[1100677]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[... die Regeln zum Auswählen der Teilleistungen im Rahmen der Prüfungstheke?]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1100745]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[kein Bedarf]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101058]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Schwierigkeiten, den eigenen Bedarf zu formulieren]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101059]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[terminliche Schwierigkeiten]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101060]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[<p>zu hoher zeitlicher Aufwand</p>]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101061]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[<p>Schwierigkeiten zu spät aufgetreten (keine Zeit mehr für Besuch der Sprechstunde/Überarbeiten der eigenen Abgabe)</p>]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101062]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[<p>Befürchtung, dass Aussagen aus der Sprechstunde unverbindlich und nicht mit Prof. Pannasch abgesprochen sind</p>]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101063]]></qid>
+    <parent_qid><![CDATA[1100743]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91298]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Befürchtung, dass die Bewertung negativ beeinflusst wird]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1101076]]></qid>
+    <parent_qid><![CDATA[1100590]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Wie vertraut sind Ihnen Testate? ]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102004]]></qid>
+    <parent_qid><![CDATA[1102003]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91157]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Bereits vor Besuch der Lehrveranstaltung interessierten mich die Inhalte der Ingenieurpsychologie.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102446]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[... die Prüfungsform Ihnen sehr vertraut ist.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102447]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[... die Prüfungsform für Sie neuartig ist.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102448]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[... die Leistung am Ende des Semsters/während der Prüfungszeit erbracht werden kann.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102449]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[... Sie sich einen Überblick über viele Themen erarbeiten können.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102450]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[... Sie wenige Themen vertiefen können.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102451]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[... die geprüften Inhalte durch die Lehrperson vorgegeben werden.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102452]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[... Sie sich die geprüften Inhalte selbst aussuchen können.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102453]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[... dass Sie die Inhalte auswendig wiedergeben können müssen.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102454]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ009]]></title>
+    <question><![CDATA[... Sie viel Zeit für Lernen und Ausarbeiten aufwenden können/müssen. ]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1102455]]></qid>
+    <parent_qid><![CDATA[1102445]]></parent_qid>
+    <sid><![CDATA[993313]]></sid>
+    <gid><![CDATA[91293]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ010]]></title>
+    <question><![CDATA[... Sie wenig Zeit für Lernen und Ausarbeiten aufwenden können/müssen. ]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1100599]]></qid>
+    <attribute><![CDATA[answer_width]]></attribute>
+    <value><![CDATA[40]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1100620]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[4]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1100620]]></qid>
+    <attribute><![CDATA[suffix]]></attribute>
+    <value><![CDATA[Stunden]]></value>
+    <language><![CDATA[de]]></language>
+   </row>
+   <row>
+    <qid><![CDATA[1100677]]></qid>
+    <attribute><![CDATA[answer_width]]></attribute>
+    <value><![CDATA[40]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101328]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101328]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[2]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <attribute><![CDATA[max_num_value_n]]></attribute>
+    <value><![CDATA[31]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[2]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <attribute><![CDATA[min_num_value_n]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101395]]></qid>
+    <attribute><![CDATA[num_value_int_only]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101396]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101396]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[2]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <attribute><![CDATA[max_num_value_n]]></attribute>
+    <value><![CDATA[31]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[2]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <attribute><![CDATA[min_num_value_n]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101680]]></qid>
+    <attribute><![CDATA[num_value_int_only]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101683]]></qid>
+    <attribute><![CDATA[input_size]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1101683]]></qid>
+    <attribute><![CDATA[maximum_chars]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[1102445]]></qid>
+    <attribute><![CDATA[answer_width]]></attribute>
+    <value><![CDATA[50]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[993313]]></sid>
+    <gsid><![CDATA[1]]></gsid>
+    <admin><![CDATA[Kerstin Kusch]]></admin>
+    <adminemail><![CDATA[Kerstin.Kusch@tu-dresden.de]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[Y]]></savetimings>
+    <template><![CDATA[Vorlage TU Dresden]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[1]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <showsurveypolicynotice><![CDATA[2]]></showsurveypolicynotice>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[Kerstin.Kusch@tu-dresden.de]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[N]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle/>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[993313]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Portfolioprofis | Auswahl der ersten Teilleistung | Testat]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<h1>Teilnehmer:inneninformation</h1>
+
+<p>Liebe:r Student:in,</p>
+
+<p>wir vom Team Portfolioprofis möchten dazulernen. Was läuft im Zusammenhang mit der Portfolioprüfung in der Vorlesung Ingenieurpsychologie gut, wo können wir Ihre Situation verbessern? Dazu brauchen wir Ihre Rückmeldung.</p>
+
+<h3>Ablauf und Dauer der Befragung</h3>
+
+<div style="margin-bottom: 11px;">Nach Ihrer Einwilligung zur Teilnahme beantworten Sie Fragen</div>
+
+<ul>
+	<li style="margin-bottom: 11px;">
+	<div>zur Zufriedenheit mit der Prüfungstheke,</div>
+	</li>
+	<li style="margin-bottom: 11px;">
+	<div>zu den Kriterien, nach denen Sie das Testat auswählten,</div>
+	</li>
+	<li style="margin-bottom: 11px;">
+	<div>wie Sie sich auf das Testat vorbereiten,</div>
+	</li>
+	<li style="margin-bottom: 11px;">
+	<div>zu unseren Informations- und Unterstützungsangeboten und</div>
+	</li>
+	<li style="margin-bottom: 11px;">
+	<div>zu Ihrer Person, wie Studiengang, Altersgruppe, Lernziele, Neigung, wichtige Aufgaben aufzuschieben und Ihr Wohlbefinden.</div>
+	</li>
+</ul>
+
+<div style="margin-bottom: 11px;">Insgesamt dauert die Befragung 10 bis 15 Minuten.</div>
+
+<h3>Erhobene Daten</h3>
+
+<p>Neben Ihren Antworten werden Zeitpunkt und Dauer der Fragenbearbeitung erhoben. Am Ende erzeugen Sie einen Code unter dem Ihre Daten zu verschiedenen Befragungszeitpunkten zusammengeführt werden können.</p>
+
+<h3>Freiwilligkeit, Rücktritt und Ausschluss</h3>
+Die Teilnahme an der Befragung erfolgt freiwillig. Falls Sie teilnehmen möchten, erklären Sie bitte Ihre Einwilligung indem Sie Sie, die angefügte Datenschutz- und Einwilligungserklärung akzeptieren. Sie können diese Einwilligung jederzeit ohne Angabe von Gründen widerrufen, ohne dass Ihnen dadurch Nachteile entstehen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Nutzung der Daten bleibt davon jedoch unberührt. Bitte beachten Sie die zusätzlichen Hinweise in den Informationen zum Datenschutz. Wenn Sie Ihre Einwilligung widerrufen möchten, wenden Sie sich bitte an unsere Studienleitung.
+
+<h3>Persönlicher Nutzen durch die Teilnahme</h3>
+
+<div>Für Sie ist kein persönlicher Nutzen durch die Teilnahme an der Befragung zu erwarten. Ihre Teilnahme trägt jedoch dazu bei, dass die Prüfungstheke und unsere Unterstützungsangebote an Ihren Bedürfnissen ausgerichtet werden. Für die Überlassung Ihrer Daten erhalten Sie kein Entgelt. Sollte aus der Forschung ein kommerzieller Nutzen erzielt werden, werden Sie daran nicht beteiligt.</div>
+
+<h3>Risiken und Nebenwirkungen</h3>
+Es sind keine psychischen oder physischen Risiken oder Nebenwirkungen im Zusammenhang mit der Befragung zu erwarten. Die Ergebnisse werden von Teammitgliedern ausgewertet, die nicht an der Bewertung Ihrer Teilleistung beteiligt sind. Ihre Angaben werden also nicht Ihre Bepunktung und letztendlich Ihre Modulnote beeinflussen.
+
+<h3>Kosten & Aufwandsentschädigung</h3>
+Die Teilnahme an der Studie ist kostenlos. Sie erhalten keine Aufwandsentschädigung.
+
+<div> </div>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Vielen Dank für Ihre Unterstützung!</p>
+
+<p>Bei Fragen und Hinweisen kommen Sie gerne über <a href="mailto:portfolioprofis@tu-dresden.d?subject=Befragung%20erste%20Teilleistung">portfolioprofis@tu-dresden.de</a> auf uns zu!</p>
+]]></surveyls_endtext>
+    <surveyls_policy_notice><![CDATA[<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Für welche Zwecke sollen personen­bezogene Daten verarbeitet werden?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Mit dieser Befragung möchten wir herausfinden, warum Sie eine Teilleistung der Prüfungstheke auswählten und wie wir Sie als Studierende besser unterstützen können. </span></span></span></span><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Diese Befragung erfolgt im Rahmen des Forschungs­projektes „Portfolioprofis: Portfolioprüfungen als Initialzündung einer veränderten Lern- und Lehrkultur“ . Das Projekt wird durch die <a href="https://stiftung-hochschullehre.de/foerderung/freiraum2022/faq/" style="color:#0069b4; text-decoration:none">Stiftung Innovation in der Hochschullehre</a> gefördert. Mit dem Projekt wollen wir Studierende in die Konzeption und Erprobung neuer Lehr- und Prüfungs­konzepte einbeziehen und zum selbst­gesteuerten Lernen befähigen. </span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wer ist für die Datenverarbeitung verantwortlich und an wen können sich Betroffene wenden?</span></span></span></span></p>
+
+<p><span style="font-size:10pt"><span style="line-height:normal"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Technische Universität Dresden<br />Mathematik und Naturwissenschaften,<br />Fakultät Psychologie,<br />Professur für Ingenieurpsychologie und angewandte Kognitionsforschung<br />01062 Dresden</span></span></span></span></p>
+
+<p style="margin-bottom:4px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ansprechpartnerin:<br />Kerstin Kusch<br />Tel. +49 351 463-44425<br />E-Mail: <a href="mailto:kerstin.kusch@tu-dresden.de" style="color:#0069b4; text-decoration:none">kerstin.kusch@tu-dresden.de</a></span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Datenschutzbeauftragter der TU Dresden:<br />Jens Syckor<br />01062 Dresden<br />Tel.  +49 351 463 32839<br />E-Mail: <a href="mailto:informationssicherheit@tu-dresden.de" style="color:#0069b4; text-decoration:none">informationssicherheit@tu-dresden.de</a></span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?</span></span></span></span></p>
+
+<p><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Rechtsgrundlagen für die Datenverarbeitung zu den oben genannten Zwecken sind Art. 6 Abs. 1 UAbs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO (Einwilligung). Die Vorgaben des § 12 SächsDSDG für die Verarbeitung personenbezogener Daten zu Forschungszwecken werden beachtet.</span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Welche personenbezogenen Daten werden verarbeitet?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Erfasst, gespeichert und verarbeitet werden Ihre in der Befragung gemachten Angaben zu Ihrer Zufriedenheit mit der Prüfungstheke, zu den Kriterien, nach denen Sie die Teilleistung auswählten, wie Sie sich auf die Teilleistung vorbereiten bzw. diese bearbeiteten, zu unseren Informations- und Unterstützungsangeboten und zu Ihrer Person, wie Studiengang, Altersgruppe, Lernziele, Neigung, wichtige Aufgaben aufzuschieben und Ihr Wohlbefinden.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wie lange werden personenbezogene Daten verarbeitet/gespeichert?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Personenbezogene Daten im engeren Sinn werden nicht verarbeitet/gespeichert.</span></span></span></span></p>
+
+<p style="margin-bottom:8px"> </p>
+<span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wie werden im Verlauf des Forschungs­projektes die Daten pseudonymisiert? </span></span></span></span>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ihnen wird ein  Code zugeordnet, unter dem die Daten abgelegt und ausgewertet werden. Es ist nicht auszuschließen, dass sich über die Verknüpfung der von Ihnen ausgewählten Teilleistungen ein Bezug zu Ihrer Person herstellen lässt.  Die in der Studie erzeugten Forschungs­daten werden in dieser pseudonymisierten Form für zehn Jahre an der Professur Ingenieur­psychologie und angewandte Kognitions­forschung bzw. mit Diensten des Zentrums für Informationsdienste und Hochleistungs­rechnen (ZIH) der TU Dresden gespeichert. </span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Werden personenbezogene Daten an Dritte übermittelt?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ihre Angaben werden über <a href="https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/512367?lang=de" style="color:#0069b4; text-decoration:none">SURVEY</a>, den Umfragedienst für sächsische Hochschulen und Berufsakademien aufgezeichnet. Die Datenschutzerklärung finden Sie hier. <a href="https://bildungsportal.sachsen.de/umfragen/datenschutz.php" style="color:#0069b4; text-decoration:none">https://bildungsportal.sachsen.de/umfragen/datenschutz.php</a>. </span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Insofern dies nicht anders gesetzlich bestimmt ist oder Sie im Einzelfall ausdrücklich eingewilligt haben, erfolgt keine weitere Übermittlung von personenbezogenen Daten an Dritte.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Erfolgt eine Veröffentlichung personenbezogener Daten?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Forschungsergebnisse werden in wissenschaftlich üblicher Form veröffentlicht. Wir sichern zu, dass aus den Veröffentlichungen keinerlei Rückschlüsse auf natürliche Personen möglich sind.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black"><span class="berschrift7Zchn" style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Welche Rechte haben Betroffene grundsätzlich</span></span>?</span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-right:-4px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">1) Freiwilligkeit und Widerruf nach Art. 7 Abs. 3 DSGVO</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Angabe personenbezogener Daten ist freiwillig. Die Einwilligung zur Verarbeitung der personenbezogenen Daten kann jeder­zeit nach Art. 7 Abs. 3 DSGVO mit der Folge widerrufen werden, dass die personen­bezo­genen Daten der betreffen­den Person nicht weiterverarbeitet werden.</span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">2) Auskunftsrecht (Art. 15 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen haben das Recht, jederzeit Auskunft über die zu ihrer Person verar­bei­te­ten Daten sowie die möglichen Empfänger dieser Daten verlangen zu können. Ihnen steht eine Antwort innerhalb einer Frist von einem Monat nach Eingang des Auskunfts­ersuchens zu. </span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">3) Recht auf Berichtigung, Löschung und Einschränkung (Art. 16 – 18 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen können jederzeit gegenüber der TU Dresden die Berichtigung, Löschung ihrer personenbezogenen Daten bzw. die Einschränkung der Verarbeitung verlangen. </span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">4) Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom: 8px;"><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen können verlangen, dass der Verantwortliche ihnen ihre personen­bezogenen Daten maschinenlesbaren Format übermittelt. Alternativ können sie die direkte Übermittlung der von Ihnen bereit­gestellten personenbezogenen Daten an einen anderen Verantwortlichen verlangen, soweit dies möglich ist.</span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">5) Beschwerderecht (Art. 77 DSGVO)</span></span></span></span></p>
+
+<p style="margin-top:8px; margin-bottom:8px; margin-left:9px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Betroffene Personen können sich jederzeit an den Datenschutzbeauftragten der TU Dresden sowie bei einer Beschwerde nach Art. 77 DSGVO an die zuständige Aufsichts­behörde zum Datenschutz wenden. Die zuständige Aufsichtsbehörde ist: </span></span></span></span></p>
+
+<p style="margin-top:8px; margin-bottom:8px; margin-left:9px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Sächsische Datenschutzbeauftragte<br />Dr. Juliane Hundert<br />Devrientstraße 5<br />01067 Dresden<br />Telefon: + 49 (0) 35185471 101<br />E-Mail: <a href="mailto:saechsdsb@slt.sachsen.de" style="color:#0069b4; text-decoration:none">saechsdsb@slt.sachsen.de</a><br />www.datenschutz.sachsen.de</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom: 8px;"><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Zur Inanspruchnahme der Rechte genügt eine Mitteilung in Textform (Brief oder E-Mail) an den Verantwortlichen unter portfolioprofis@tu-dresden.de. Sie können diese Rechte in Anspruch nehmen, bis die Anonymisierung Ihrer Daten erfolgt ist. Anschließend ist keine Zuordnung Ihrer Person zu den Daten mehr möglich, sodass auch eine Löschung Ihrer Daten nicht mehr möglich ist. </span></span></span></p>
+
+<h1 style=" margin-bottom: 8px;"><span style="font-size:12.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Einwilligungserklärung</span></span></span></h1>
+
+<p><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Mit "Akzeptieren" bestätige ich, dass ich die Datenschutzerklärung sowie die zugehörige Teilnehmer: inneninformation gelesen und verstanden habe, alle ggf. noch offenen Fragen zur Befragung geklärt sind, ich freiwillig an der Befragung teilnehmen möchte und damit in die Verarbeitung meiner personenbezogenen Daten im Rahmen der oben genannten Befragung einwillige.</span></span></span></p>
+]]></surveyls_policy_notice>
+    <surveyls_policy_error/>
+    <surveyls_policy_notice_label><![CDATA[Datenschutz- und Einwilligungserklärung]]></surveyls_policy_notice_label>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>993313</sid>
+   <template_name>fruity</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+  <theme>
+   <sid>993313</sid>
+   <template_name>Vorlage TU Dresden</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>993313</sid>
+   <template_name>fruity</template_name>
+   <config>
+    <options>
+     <ajaxmode>on</ajaxmode>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <container>on</container>
+     <backgroundimage>off</backgroundimage>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <font>noto</font>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+  <theme>
+   <sid>993313</sid>
+   <template_name>Vorlage TU Dresden</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <animatebody>off</animatebody>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <container>on</container>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>upload/themes/survey/Vorlage TU Dresden/files/logo-tu-dresden.png</brandlogofile>
+     <font>noto</font>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
