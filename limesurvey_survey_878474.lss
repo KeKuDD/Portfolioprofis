@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>365</DBVersion>
+ <languages>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[sehr untypisch]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[eher untypisch]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[eher typisch]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[sehr typisch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[gar nicht zutreffend]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[wenig zutreffend]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[teilweise zutreffend]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[überwiegend zutreffend]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[völlig zutreffend]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[190178]]></cid>
+    <qid><![CDATA[1106660]]></qid>
+    <cqid><![CDATA[1106637]]></cqid>
+    <cfieldname><![CDATA[+878474X91792X1106637SQ002]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[190177]]></cid>
+    <qid><![CDATA[1106580]]></qid>
+    <cqid><![CDATA[1106637]]></cqid>
+    <cfieldname><![CDATA[+878474X91792X1106637SQ006]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[91790]]></gid>
+    <sid><![CDATA[878474]]></sid>
+    <group_name><![CDATA[Ihre Person]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[Um Ihre Angaben einordnen zu können, teilen Sie uns bitte etwas über sich mit!]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[91792]]></gid>
+    <sid><![CDATA[878474]]></sid>
+    <group_name><![CDATA[Auswahl keiner Teilleistung]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description/>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1106570]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[Lernziel]]></title>
+    <question><![CDATA[<span dir="ltr" role="presentation" style="left: 5.21%; top: 36.51%; font-size: calc(var(--scale-factor)*10.00px); font-family: sans-serif; transform: scaleX(1.07379);">Mit welchem persönlichen Lernziel sind Sie in die Veranstaltung gegangen?</span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[GPSK]]></title>
+    <question><![CDATA[<span aria-labelledby="instrument-label" class="property-value" style="font-family: 'Source Sans Pro', Arial, Verdana, Helvetica, sans-serif !important; font-size:1rem; font-weight: normal; color: #000"><span style="text-align: justify; line-height: 150%; font-size: 10.0pt; font-family: 'Arial','sans-serif';">Bitte entscheiden Sie für jede Aussage, wie typisch oder untypisch das geschilderte Verhalten für Sie ist.</span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106580]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[PunktVersuchGrund]]></title>
+    <question><![CDATA[<span style="font-size:11.0pt"><span style="line-height:107%"><span style="font-family:&quot;Calibri&quot;,sans-serif"><span style="color:black">Warum haben Sie diese 5-Punkte-Aufgaben nicht abgegeben?</span></span></span></span>]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((878474X91792X1106637SQ006.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106593]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[Fachinteresse]]></title>
+    <question><![CDATA[Geben Sie bitte an, inwiefern Sie der folgenden Aussage zustimmen!]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106637]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[NichtwahlGrund]]></title>
+    <question><![CDATA[Wie kam es dazu, dass Sie keine Teilleistung auswählten?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[Y]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106660]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[S]]></type>
+    <title><![CDATA[InfoKanal]]></title>
+    <question><![CDATA[Wie oder über welchen Kanal hätte die Information, dass Sie sich für ein Testat anmelden oder Teilleistungen einreichen müssen, am besten erreichen können?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((878474X91792X1106637SQ002.NAOK == "Y"))]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1106596]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ich ertappe mich häufig dabei, Aufgaben zu erledigen, die ich eigentlich schon vor Tagen tun wollte.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106597]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich erledige Aufgaben immer erst kurz vor dem Abgabetermin.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106598]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Selbst kleine Sachen, bei denen man sich nur hinsetzen und sie erledigen müsste, bleiben häufig für Tage liegen.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106599]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Bei der Vorbereitung auf einen Abgabetermin vergeude ich häufig meine Zeit mit anderen Dingen.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106600]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Normalerweise fange ich mit einer Arbeitsaufgabe gleich an, wenn ich sie bekommen habe.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106601]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Ich bin häufig mit Aufgaben früher fertig als nötig.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106602]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Normalerweise erledige ich am Tag alle Dinge, die ich geplant hatte.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106603]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ008]]></title>
+    <question><![CDATA[Ich sage dauernd: „Das mache ich morgen“.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106604]]></qid>
+    <parent_qid><![CDATA[1106576]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ009]]></title>
+    <question><![CDATA[Im Allgemeinen erledige ich alles, was ich machen wollte, bevor ich mich am Abend hinsetze und mich ausruhe.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106626]]></qid>
+    <parent_qid><![CDATA[1106593]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91790]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Bereits vor Besuch der Lehrveranstaltung interessierten mich die Inhalte der Ingenieurpsychologie.]]></question>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[N]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[1106638]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Ich brauche keine Leistungspunkte.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106644]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ002]]></title>
+    <question><![CDATA[Ich wusste nicht, dass bis zum 16. Mai ein Testat anzumelden ist bzw. Teilleistungen einzureichen sind.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106645]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ003]]></title>
+    <question><![CDATA[Ich warte ab, wie die Prüfungstheke, also das Auswählen von Teilleistungen, läuft.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106646]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ004]]></title>
+    <question><![CDATA[Aufgrund der Arbeitsbelastung in diesem Semester verschiebe ich die Prüfung auf einen späteren Zeitpunkt.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106647]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ005]]></title>
+    <question><![CDATA[Ich habe mich für ein anderes Modul entschieden.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106648]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ006]]></title>
+    <question><![CDATA[Ich habe 5-Punkte-Aufgaben bearbeitet, diese jedoch nicht eingereicht.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[1106659]]></qid>
+    <parent_qid><![CDATA[1106637]]></parent_qid>
+    <sid><![CDATA[878474]]></sid>
+    <gid><![CDATA[91792]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ007]]></title>
+    <question><![CDATA[Mich hindern persönliche Gründe.]]></question>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[1106576]]></qid>
+    <attribute><![CDATA[answer_width]]></attribute>
+    <value><![CDATA[40]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[878474]]></sid>
+    <gsid><![CDATA[1]]></gsid>
+    <admin><![CDATA[Kerstin Kusch]]></admin>
+    <adminemail><![CDATA[Kerstin.Kusch@tu-dresden.de]]></adminemail>
+    <anonymized><![CDATA[N]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[Y]]></savetimings>
+    <template><![CDATA[Vorlage TU Dresden]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[Y]]></datestamp>
+    <usecookie><![CDATA[N]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[1]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <showsurveypolicynotice><![CDATA[2]]></showsurveypolicynotice>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[N]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[Kerstin.Kusch@tu-dresden.de]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[N]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[N]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[0]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle/>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[878474]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Vorlesung Ingenieurpsychologie | Auswahl keiner Teilleistung]]></surveyls_title>
+    <surveyls_description/>
+    <surveyls_welcometext><![CDATA[<h1>Teilnehmer:inneninformation</h1>
+
+<p>Liebe:r Student:in,</p>
+
+<p>Sie haben sich für die Vorlesung Ingenieurpsychologie angemeldet, jedoch nicht für eine Teilleistung (Testat oder 5-Punkte-Aufgaben). Wie kam es dazu? Wir vom Team Portfolioprofis möchten dazulernen. Was läuft im Zusammenhang mit der Portfolioprüfung in der Vorlesung Ingenieurpsychologie gut, wo können wir Ihre Situation verbessern? Dazu brauchen wir Ihre Rückmeldung.</p>
+
+<h3>Ablauf und Dauer der Befragung</h3>
+
+<div style="margin-bottom: 11px;">Nach Ihrer Einwilligung zur Teilnahme beantworten Sie Fragen</div>
+
+<ul>
+	<li style="margin-bottom: 11px;">
+	<div>zu den Gründen, weshalb Sie keine Teilleistung auswählten und</div>
+	</li>
+	<li style="margin-bottom: 11px;">
+	<div>zu Ihrer Person, wie Lernziele und die Neigung, wichtige Aufgaben aufzuschieben.</div>
+	</li>
+</ul>
+
+<div style="margin-bottom: 11px;">Insgesamt dauert die Befragung 5 Minuten.</div>
+
+<h3>Erhobene Daten</h3>
+
+<p>Neben Ihren Antworten werden Zeitpunkt und Dauer der Fragenbearbeitung erhoben.</p>
+
+<h3>Freiwilligkeit, Rücktritt und Ausschluss</h3>
+Die Teilnahme an der Befragung erfolgt freiwillig. Falls Sie teilnehmen möchten, erklären Sie bitte Ihre Einwilligung indem Sie Sie, die angefügte Datenschutz- und Einwilligungserklärung akzeptieren. Sie können diese Einwilligung jederzeit ohne Angabe von Gründen widerrufen, ohne dass Ihnen dadurch Nachteile entstehen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Nutzung der Daten bleibt davon jedoch unberührt. Bitte beachten Sie die zusätzlichen Hinweise in den Informationen zum Datenschutz. Wenn Sie Ihre Einwilligung widerrufen möchten, wenden Sie sich bitte an unsere Studienleitung.
+
+<h3>Persönlicher Nutzen durch die Teilnahme</h3>
+
+<div>Für Sie ist kein persönlicher Nutzen durch die Teilnahme an der Befragung zu erwarten. Ihre Teilnahme trägt jedoch dazu bei, dass die Prüfungstheke und unsere Unterstützungsangebote an Ihren Bedürfnissen ausgerichtet werden. Für die Überlassung Ihrer Daten erhalten Sie kein Entgelt. Sollte aus der Forschung ein kommerzieller Nutzen erzielt werden, werden Sie daran nicht beteiligt.</div>
+
+<h3>Risiken und Nebenwirkungen</h3>
+Es sind keine psychischen oder physischen Risiken oder Nebenwirkungen im Zusammenhang mit der Befragung zu erwarten. Ihre Angaben werden nicht Ihre Bepunktung und letztendlich Ihre Modulnote beeinflussen, falls Sie beabsichtigen zu einem späteren Zeitpunkt die Teilleistungen zu erbringen.
+
+<h3>Kosten & Aufwandsentschädigung</h3>
+Die Teilnahme an der Studie ist kostenlos. Sie erhalten keine Aufwandsentschädigung.
+
+<div> </div>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p>Vielen Dank für Ihre Unterstützung!</p>
+
+<p>Bei Fragen und Hinweisen kommen Sie gerne über <a href="mailto:portfolioprofis@tu-dresden.d?subject=Befragung%20erste%20Teilleistung">portfolioprofis@tu-dresden.de</a> auf uns zu!</p>
+]]></surveyls_endtext>
+    <surveyls_policy_notice><![CDATA[<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Für welche Zwecke sollen personen­bezogene Daten verarbeitet werden?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Mit dieser Befragung möchten wir herausfinden, warum Sie keine Teilleistung der Prüfungstheke auswählten. </span></span></span></span><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Diese Befragung erfolgt im Rahmen des Forschungs­projektes „Portfolioprofis: Portfolioprüfungen als Initialzündung einer veränderten Lern- und Lehrkultur“. Das Projekt wird durch die <a href="https://stiftung-hochschullehre.de/foerderung/freiraum2022/faq/" style="color:#0069b4; text-decoration:none">Stiftung Innovation in der Hochschullehre</a> gefördert. Mit dem Projekt wollen wir Studierende in die Konzeption und Erprobung neuer Lehr- und Prüfungs­konzepte einbeziehen und zum selbst­gesteuerten Lernen befähigen. </span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wer ist für die Datenverarbeitung verantwortlich und an wen können sich Betroffene wenden?</span></span></span></span></p>
+
+<p><span style="font-size:10pt"><span style="line-height:normal"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Technische Universität Dresden<br />Mathematik und Naturwissenschaften,<br />Fakultät Psychologie,<br />Professur für Ingenieurpsychologie und angewandte Kognitionsforschung<br />01062 Dresden</span></span></span></span></p>
+
+<p style="margin-bottom:4px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ansprechpartnerin:<br />Kerstin Kusch<br />Tel. +49 351 463-44425<br />E-Mail: <a href="mailto:kerstin.kusch@tu-dresden.de" style="color:#0069b4; text-decoration:none">kerstin.kusch@tu-dresden.de</a></span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Datenschutzbeauftragter der TU Dresden:<br />Jens Syckor<br />01062 Dresden<br />Tel.  +49 351 463 32839<br />E-Mail: <a href="mailto:informationssicherheit@tu-dresden.de" style="color:#0069b4; text-decoration:none">informationssicherheit@tu-dresden.de</a></span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Auf welcher Rechtsgrundlage erfolgt die Verarbeitung personenbezogener Daten?</span></span></span></span></p>
+
+<p><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Rechtsgrundlagen für die Datenverarbeitung zu den oben genannten Zwecken sind Art. 6 Abs. 1 UAbs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO (Einwilligung). Die Vorgaben des § 12 SächsDSDG für die Verarbeitung personenbezogener Daten zu Forschungszwecken werden beachtet.</span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Welche personenbezogenen Daten werden verarbeitet?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Erfasst, gespeichert und verarbeitet werden Ihre in der Befragung gemachten Angaben zu den Gründen, weshalb Sie keine Teilleistung auswählte und zu Ihrer Person, wie Lernziele und die Neigung, wichtige Aufgaben aufzuschieben.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wie lange werden personenbezogene Daten verarbeitet/gespeichert?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Personenbezogene Daten im engeren Sinn werden nicht verarbeitet/gespeichert.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Wie werden im Verlauf des Forschungs­projektes die Daten pseudonymisiert? </span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ihnen wird ein Code zugeordnet, unter dem die Daten abgelegt und ausgewertet werden. Es ist nicht auszuschließen, dass sich über die Verknüpfung der von Ihnen gemachten Angaben ein Bezug zu Ihrer Person herstellen lässt.  Die in der Studie erzeugten Forschungs­daten werden in dieser pseudonymisierten Form für zehn Jahre an der Professur Ingenieur­psychologie und angewandte Kognitions­forschung bzw. mit Diensten des Zentrums für Informationsdienste und Hochleistungs­rechnen (ZIH) der TU Dresden gespeichert. </span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Werden personenbezogene Daten an Dritte übermittelt?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Ihre Angaben werden über <a href="https://bildungsportal.sachsen.de/umfragen/limesurvey/index.php/512367?lang=de" style="color:#0069b4; text-decoration:none">SURVEY</a>, den Umfragedienst für sächsische Hochschulen und Berufsakademien aufgezeichnet. Die Datenschutzerklärung finden Sie hier. <a href="https://bildungsportal.sachsen.de/umfragen/datenschutz.php" style="color:#0069b4; text-decoration:none">https://bildungsportal.sachsen.de/umfragen/datenschutz.php</a>. </span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Insofern dies nicht anders gesetzlich bestimmt ist oder Sie im Einzelfall ausdrücklich eingewilligt haben, erfolgt keine weitere Übermittlung von personenbezogenen Daten an Dritte.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Erfolgt eine Veröffentlichung personenbezogener Daten?</span></span></span></span></p>
+
+<p style="margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Forschungsergebnisse werden in wissenschaftlich üblicher Form veröffentlicht. Wir sichern zu, dass aus den Veröffentlichungen keinerlei Rückschlüsse auf natürliche Personen möglich sind.</span></span></span></span></p>
+
+<p class="MsoHeading7" style="margin-top:24px; margin-bottom:8px"><span style="font-size:11pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black"><span class="berschrift7Zchn" style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Welche Rechte haben Betroffene grundsätzlich</span></span>?</span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-right:-4px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">1) Freiwilligkeit und Widerruf nach Art. 7 Abs. 3 DSGVO</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Angabe personenbezogener Daten ist freiwillig. Die Einwilligung zur Verarbeitung der personenbezogenen Daten kann jeder­zeit nach Art. 7 Abs. 3 DSGVO mit der Folge widerrufen werden, dass die personen­bezo­genen Daten der betreffen­den Person nicht weiterverarbeitet werden.</span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">2) Auskunftsrecht (Art. 15 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen haben das Recht, jederzeit Auskunft über die zu ihrer Person verar­bei­te­ten Daten sowie die möglichen Empfänger dieser Daten verlangen zu können. Ihnen steht eine Antwort innerhalb einer Frist von einem Monat nach Eingang des Auskunfts­ersuchens zu. </span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">3) Recht auf Berichtigung, Löschung und Einschränkung (Art. 16 – 18 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom:8px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen können jederzeit gegenüber der TU Dresden die Berichtigung, Löschung ihrer personenbezogenen Daten bzw. die Einschränkung der Verarbeitung verlangen. </span></span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">4) Recht auf Datenübertragbarkeit (Art. 20 DSGVO)</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom: 8px;"><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Die Betroffenen können verlangen, dass der Verantwortliche ihnen ihre personen­bezogenen Daten maschinenlesbaren Format übermittelt. Alternativ können sie die direkte Übermittlung der von Ihnen bereit­gestellten personenbezogenen Daten an einen anderen Verantwortlichen verlangen, soweit dies möglich ist.</span></span></span></p>
+
+<p class="MsoHeading9" style="margin-top:16px; margin-bottom:8px"><span style="font-size:9pt"><span style="line-height:120%"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">5) Beschwerderecht (Art. 77 DSGVO)</span></span></span></span></p>
+
+<p style="margin-top:8px; margin-bottom:8px; margin-left:9px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Betroffene Personen können sich jederzeit an den Datenschutzbeauftragten der TU Dresden sowie bei einer Beschwerde nach Art. 77 DSGVO an die zuständige Aufsichts­behörde zum Datenschutz wenden. Die zuständige Aufsichtsbehörde ist: </span></span></span></span></p>
+
+<p style="margin-top:8px; margin-bottom:8px; margin-left:9px"><span style="font-size:10pt"><span style="line-height:12pt"><span style="font-family:&quot;Open Sans&quot;,sans-serif"><span style="color:black">Sächsische Datenschutzbeauftragte<br />Dr. Juliane Hundert<br />Devrientstraße 5<br />01067 Dresden<br />Telefon: + 49 (0) 35185471 101<br />E-Mail: <a href="mailto:saechsdsb@slt.sachsen.de" style="color:#0069b4; text-decoration:none">saechsdsb@slt.sachsen.de</a><br />www.datenschutz.sachsen.de</span></span></span></span></p>
+
+<p style="margin-left:9px; margin-bottom: 8px;"><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Zur Inanspruchnahme der Rechte genügt eine Mitteilung in Textform (Brief oder E-Mail) an den Verantwortlichen unter portfolioprofis@tu-dresden.de. Sie können diese Rechte in Anspruch nehmen, bis die Anonymisierung Ihrer Daten erfolgt ist. Anschließend ist keine Zuordnung Ihrer Person zu den Daten mehr möglich, sodass auch eine Löschung Ihrer Daten nicht mehr möglich ist. </span></span></span></p>
+
+<h1 style=" margin-bottom: 8px;"><span style="font-size:12.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Einwilligungserklärung</span></span></span></h1>
+
+<p><span style="font-size:10.0pt"><span style="font-family:&quot;Open Sans Semibold&quot;,sans-serif"><span style="color:black">Mit "Akzeptieren" bestätige ich, dass ich die Datenschutzerklärung sowie die zugehörige Teilnehmer: inneninformation gelesen und verstanden habe, alle ggf. noch offenen Fragen zur Befragung geklärt sind, ich freiwillig an der Befragung teilnehmen möchte und damit in die Verarbeitung meiner personenbezogenen Daten im Rahmen der oben genannten Befragung einwillige.</span></span></span></p>
+]]></surveyls_policy_notice>
+    <surveyls_policy_error/>
+    <surveyls_policy_notice_label><![CDATA[Datenschutz- und Einwilligungserklärung]]></surveyls_policy_notice_label>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>878474</sid>
+   <template_name>fruity</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+  <theme>
+   <sid>878474</sid>
+   <template_name>Vorlage TU Dresden</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>878474</sid>
+   <template_name>fruity</template_name>
+   <config>
+    <options>
+     <ajaxmode>on</ajaxmode>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <container>on</container>
+     <backgroundimage>off</backgroundimage>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <font>noto</font>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+  <theme>
+   <sid>878474</sid>
+   <template_name>Vorlage TU Dresden</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <animatebody>off</animatebody>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <container>on</container>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>upload/themes/survey/Vorlage TU Dresden/files/logo-tu-dresden.png</brandlogofile>
+     <font>noto</font>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
